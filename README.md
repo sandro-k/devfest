@@ -42,7 +42,15 @@
 
 # Step 2
 
+- [ ] Pick any element from the [Polymer Catalog](https://elements.polymer-project.org/) and play around with them.  
+
 # Step 3
+
+- [ ] Chose any of the [Polymer Codelabs](http://www.code-labs.io/polymer-summit) and start coding
+
+# Step 4
+
+- [ ] Any questions pleas ask! 
     
     
 # Links
