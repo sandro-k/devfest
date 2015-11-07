@@ -58,7 +58,7 @@
 - [Polymer Catalog](https://elements.polymer-project.org/)
 - [Polymer Codelabs](http://www.code-labs.io/polymer-summit)
 - [Polymer-Starter-Kit (PSK)](https://github.com/PolymerElements/polymer-starter-kit)
-- [Polymer Slack Room](https://polymer.slack.com/messages/general/)
+- [Polymer Slack Room](https://polymer.slack.com/messages/general/) -> [INVITE](http://polymer-slack.herokuapp.com/)
 - [Polymer PRIMER](https://github.com/Polymer/polymer/blob/master/PRIMER.md)
 - [Polymer Base API](http://polymer.github.io/polymer/)
 - [Polymer material design showcase](https://github.com/ebidel/material-playground)
