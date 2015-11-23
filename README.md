@@ -62,7 +62,7 @@
 - [Polymer PRIMER](https://github.com/Polymer/polymer/blob/master/PRIMER.md)
 - [Polymer Base API](http://polymer.github.io/polymer/)
 - [Polymer material design showcase](https://github.com/ebidel/material-playground)
-- [Layout](http://plnkr.co/edit/xIARqr?p=preview)
+- [Layout](https://elements.polymer-project.org/guides/flex-layout);[2](http://plnkr.co/edit/xIARqr?p=preview)
 
     
     
